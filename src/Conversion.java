@@ -1,6 +1,5 @@
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.Scanner;
+
 
 public class Conversion {
 
@@ -91,7 +90,7 @@ public class Conversion {
         if (currency2 == dollar) {
             System.out.println("You cannot convert the same currency: " + dollar_result);
         } else if  (currency2 == euro) {
-                result  = dollar_result * DOLLAR_TO_EURO;
+            result  = dollar_result * DOLLAR_TO_EURO;
         } else if (currency2 == grivna) {
             result  = dollar_result * DOLLAR_TO_GRIVNA;
         } else if (currency2 == pound) {
