@@ -12,6 +12,7 @@ public class Calculator {
 
     }
 
+
     public static int[] input_numbers () {
 
         int size = 3;

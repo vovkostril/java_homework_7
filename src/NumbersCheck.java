@@ -75,6 +75,7 @@ public class NumbersCheck {
 
 
 
+
         int nums[];
         nums = new int[] {2, 5, 3, 6, 9};
 

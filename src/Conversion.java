@@ -2,6 +2,7 @@ import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;
 
+
 public class Conversion {
 
     static Scanner input = new Scanner(System.in);
