@@ -21,7 +21,7 @@ public class Calculator {
 
         for (int i = 0; i < size; i++) {
             //if(input.hasNextInt()){
-                array[i] = input.nextInt();
+            array[i] = input.nextInt();
             /*} else {
                 //try Recursion
                 System.out.println("Wrong input, please, enter your number again! ");
