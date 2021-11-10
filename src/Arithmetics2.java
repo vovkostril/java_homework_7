@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Arithmetics {
+public class Arithmetics2 {
 
     static Scanner input = new Scanner(System.in);
 
