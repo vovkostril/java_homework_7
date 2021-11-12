@@ -80,7 +80,4 @@ public class Arithmetics {
         }
         return operator;
     }
-
-
-
 }
